@@ -1,0 +1,3 @@
+What is 2 * 2 ?,4,2,8,6,A
+What is capital of Canada ?,Toronto,Ottawa,Pennsylvania,The Moon,B
+What is capital of South Korea ?,London,Ottawa,Totyo,Seoul,D

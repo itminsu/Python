@@ -1,0 +1,1 @@
+pyuic5 -x CountryApplication.ui -o CountryApplicationUI.py
